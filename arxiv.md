@@ -22,3 +22,5 @@
 ##### All code implementations for NIPS 2016 - REDDIT  
 > https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/  
 
+##### How to code a paper  
+> https://mltrain.cc/events/nips-highlights-learn-how-to-code-a-paper-with-state-of-the-art-frameworks/  

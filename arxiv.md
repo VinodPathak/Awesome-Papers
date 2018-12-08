@@ -1,3 +1,9 @@
+##### How ro read research papers  
+> https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0  
+
+##### NIPS - Neural Information Processing System  
+> https://nips.cc/  
+
 ##### Deep Learning Papers  
 > https://github.com/terryum/awesome-deep-learning-papers  
 
@@ -9,3 +15,10 @@
 
 ##### Papers we love  
 > https://github.com/papers-we-love/papers-we-love  
+
+##### DL papers reading roadmap  
+> https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap  
+
+##### All code implementations for NIPS 2016 - REDDIT  
+> https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/  
+
